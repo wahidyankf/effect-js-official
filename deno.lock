@@ -1,0 +1,15 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:effect": "npm:effect@3.0.7"
+    },
+    "npm": {
+      "effect@3.0.7": {
+        "integrity": "sha512-VlEpWUc3IBc7k9NUdsdbh7cnGFNIdMpIoUFbbiVkt304d40pSr6Zadnr5Tk8m1cniqOLo4SXSZLw0M6f7N17Hg==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {}
+}
